@@ -1,4 +1,4 @@
-# Lab1-Cal
+# Calculator
 Calculator to demonstrate stateless web services 
 
 ###The server includes the following functionalities: 
