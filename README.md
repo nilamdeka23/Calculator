@@ -12,7 +12,7 @@ Simple design, comprising of a client which is a single page application and whe
 
 The parameters are distinguished at client itself and sent to server for arithmetic processing.
 
-* **Example:** A user clicks a number and then clicks on an operator, the second number input is taken as the second parameter and on subsequent press of an operator the parameters are sent to server making HTTP POST requests for processing, which on success sends back the result for the calculator to display.
+* **Example:** A user clicks a number and then clicks on an operator, the second number input is taken as the second parameter and on subsequent press of an operator the parameters are sent to server making HTTP POST request for processing, which on success sends back the result for the calculator to display.
 
 ### Sample App
 ![Alt Text](https://github.com/nilamdeka23/Lab1-Cal/blob/master/cal.gif)
